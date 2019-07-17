@@ -12,8 +12,10 @@ import Characters from "@/components/Characters.vue";
 export default {
   name: 'home',
   components: {
+    /* eslint-disable */
     HelloWorld,
     Characters,
-  }
+  },
+
 }
 </script>

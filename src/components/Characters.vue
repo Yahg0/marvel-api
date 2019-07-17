@@ -9,7 +9,7 @@
     <div class="heroes-list">
         <ul>
             <li v-for="character in characters" v-bind:key="character.name">
-                {{character.name}}
+                <router-link :to="{name: 'character', params:{id: character.id} }">{{character.name}}</router-link>
             </li>
         </ul>
     </div>
