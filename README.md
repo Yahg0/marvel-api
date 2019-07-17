@@ -1,8 +1,8 @@
 # marvel-api
 
-##Projeto demonstrativo do uso da api da marvel utilizando Vuejs (Vue CLI 3), exibindo uma lista dos herois, suas informações e uma imagem do mesmo.
+Projeto demonstrativo do uso da api da marvel utilizando Vuejs (Vue CLI 3), exibindo uma lista dos herois, suas informações e uma imagem do mesmo.
 
-###Tecnologias utilizadas: 
+## Tecnologias utilizadas: 
 - Vuejs
 - Vuex
 - Vue-router
